@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #E8EAF6;
+}
+
+p ,div,section ,h1,h2,span,i,img{
+    margin: 0;
+    padding: 0;
+}
+
+#bigContain{
+    margin: auto 5%;
+    min-height: 100%;
+    background-color: white;
+    min-width: 600px;
+}
+
+.deepBlue{
+    background-color: #1A237E;
+    color: white;
+}
+
+.deepBlue .reds{
+    padding-left:1em;
+}
+
+.deepBlue .reds a{
+    padding:0.3em 0.6em 0.3em 0;
+
+}
+
+.deepBlue section{
+    border: hidden;
+    display: block;
+    padding: 1em;
+}
+
+
+
+.deepBlue div a:hover{
+    background-color: red;
+}
+
+.fadeBlue {
+    background-color: #7986CB;
+    color: white;
+    width: 100%;
+}
+
+.fadeBlue h2{
+    display: block;
+    background-color: #7986CB;
+}
+
+.date{
+    color: #F5A2C1;
+}
+
+
+h1{
+    font-size: 1.5em;
+}
+
+h2{
+    display: block;
+    padding: 1em;
+}
+
+a{
+    color: #00B0FF;
+}
+
+#picWords{
+    padding: 0.5em 1em;
+    margin-top:-0.5em;
+    background-color: #C5CAE9;
+    color: #7990A3;
+}
+
+.container{
+    margin: 0.5em;
+    border: 1px solid #C5CAE9;
+}
+
+.re{
+    margin: 0.5em 1em 0.5em;
+}
