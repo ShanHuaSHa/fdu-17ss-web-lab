@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>lab07</title>
+    <link rel="stylesheet" href="lab07.css">
+    <script src="lab07.js"></script>
+</head>
+<body>
+
+<select id="head" oninput="change()">
+    <option value="1">SELECT ONE</option>
+    <option value="2">CREATE TABLE</option>
+    <option value="3">ADD ROW</option>
+    <option value="4">DELETE ROW</option>
+    <option value="5">DELETE TABLE</option>
+</select>
+
+<p id="begin" style="display: none">
+    <input type="text" placeholder="Table Name" class="tabName" id="tabName" oninput="show()">
+    <input type="number" placeholder="Column Numbers" class="colNum" id="colNum" oninput="show()">
+</p>
+
+<p id="attr"></p>
+
+<button id="but" style="display: none" onclick="commit()">commit</button>
+<br/>
+
+<select id="tableName" oninput="changeTable()">
+    <option value="-1">SELECT(default: last created)</option>
+</select>
+
+<table id="tt"></table>
+
+
+
+</body>
+</html>

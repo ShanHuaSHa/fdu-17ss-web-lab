@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+
+}
+
+p,select,button{
+    margin: 0;
+}
+
+
+table{
+    border: 0;
+}
+
+select,button{
+    width: 300px;
+}
+
+tr{
+    padding: 0 0.5em;
+}
+
+th{
+    background-color: grey;
+    color: whitesmoke;
+}
+
+#tt{
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
+
