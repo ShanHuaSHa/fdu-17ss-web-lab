@@ -8,7 +8,11 @@
 
 请补充 `Lab02.html` 中的相应代码，使得补充后的页面效果与以下效果相同
 
+<<<<<<< HEAD
 ![最终效果](./screenshots/final.png)
+=======
+![最终效果](./screenshots/lab2.png)
+>>>>>>> first commit
 
 推荐在编写代码过程中使用 `<article>`、`<nav>`、`<footer>` 等 HTML5 语义化标签来代替像 `<div>` 这样的通用 HTML 标签。
 
@@ -16,7 +20,11 @@
 
 具体可以参考下图：
 
+<<<<<<< HEAD
 ![HTML5 标签](./screenshots/final2.png)
+=======
+![HTML5 标签](./screenshots/lab2-detail.png)
+>>>>>>> first commit
 
 ## 注意
 

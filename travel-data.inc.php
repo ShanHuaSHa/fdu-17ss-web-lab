@@ -77,4 +77,8 @@
 
   $images[102] = array("id"=>102,"title" => "Millennium Park Chicago", "description" => "Jay Pritzker Pavilion at Millennium Park by Frank Gehry", "country" => "United States", "city" => "Chicago", "user" => "Mark Taylor", "path" => "22182041615.jpg", "taken" => "September 28, 2017", "tags" => array("downtown","skyscrapper","architecture","modernism")); 
   
+<<<<<<< HEAD
 ?>;
+=======
+?>
+>>>>>>> first commit

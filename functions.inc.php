@@ -10,6 +10,7 @@ function generateLink($url, $label, $class) {
 
 function outputPostRow($number)  {
     include("travel-data.inc.php");
+<<<<<<< HEAD
 
 
     $postId = 'postId'.$number;
@@ -40,6 +41,8 @@ function outputPostRow($number)  {
 
     $div .= '<hr class="col-md-12"/>';
     echo $div;
+=======
+>>>>>>> first commit
 }
 
 /*

@@ -18,6 +18,7 @@
 
 <body>
     <!-- include header here -->
+<<<<<<< HEAD
     <?php include 'header.inc.php'; ?>
     <!-- Page Content -->
     <main class="container">
@@ -26,6 +27,15 @@
     
         <!-- include left here -->
             <?php include 'left.inc.php'; ?>
+=======
+
+    <!-- Page Content -->
+    <main class="container">
+        <div class="row">
+    
+        <!-- include left here -->          
+    
+>>>>>>> first commit
             <div class="col-md-10">
                 <div class="jumbotron" id="postJumbo">
                     <h1>Posts</h1>
@@ -47,10 +57,14 @@
             </div>  <!-- end col-mid-10 -->
         </div>  <!-- end row -->
     </main>
+<<<<<<< HEAD
 
 
 
 
+=======
+    
+>>>>>>> first commit
 
         <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
